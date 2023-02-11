@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484588276037",
+    "project_id": "book-manage-6dc20",
+    "storage_bucket": "book-manage-6dc20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484588276037:android:224c8c5170e4f246f5162c",
+        "android_client_info": {
+          "package_name": "com.iamtamimalii.books_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484588276037-90d48og6ifmce09phna1roelgn7762pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9f8o3pUZyTk_sZ4CfKy6Ar25V6Rv-hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484588276037-90d48og6ifmce09phna1roelgn7762pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
